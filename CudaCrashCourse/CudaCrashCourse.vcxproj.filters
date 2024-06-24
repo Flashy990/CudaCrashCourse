@@ -15,6 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <CudaCompile Include="test.cu" />
+    <CudaCompile Include="TestingAndLearning\test.cu" />
   </ItemGroup>
 </Project>
